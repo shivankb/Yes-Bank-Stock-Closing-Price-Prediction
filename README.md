@@ -39,4 +39,4 @@ These are the general conclusions that can be drawn from an EDA on the Google Pl
 
 # Note
 
-This project is for educational purposes only and should not be used for investment decisions.
+*This project is for educational purposes only and should not be used for investment decisions.*
