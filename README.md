@@ -8,11 +8,11 @@ Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has
 
 The data used for training and testing the model is the historical closing stock prices of Yes Bank and includes the following information:
 
-    1. Date
-    2. Open
-    3. High 
-    4. Low 
-    5. Close
+    1. Date - Date of record
+    2. Open - Opening Price
+    3. High - Highest price in the day
+    4. Low - Lowest price in the day
+    5. Close - Price at the end of the day
 
 # Requirements
 
