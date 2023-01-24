@@ -32,7 +32,7 @@ To run this project, you will need to have the following packages installed:
 
 # Conclusion
 
-These are the general conclusions that can be drawn from an EDA on the Google Playstore:
+These are the general conclusions that can be drawn from this project:
 
     1. 
     2. 
