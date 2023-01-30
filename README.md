@@ -32,10 +32,7 @@ To run this project, you will need to have the following packages installed:
 
 # Conclusion
 
-These are the general conclusions that can be drawn from this project:
-
-    1. 
-    2. 
+The ridge regression model is the best model for forecasting the closing price of Yes Bank's stock, according to the findings of the prior comparisons. With low mean squared error, root mean squared error, and mean absolute error, as well as a high R2 score, the ridge regression model has consistently demonstrated a high level of prediction accuracy. The Local Interpretable Model-agnostic prediction local values further support the excellent accuracy of the ridge regression model. The linear regression model offers intermediate accuracy, whereas the lasso regression model has a lesser level of accuracy. As a result, the ridge regression model is best suited to forecast the closing price of Yes Bank's shares.
 
 # Note
 
